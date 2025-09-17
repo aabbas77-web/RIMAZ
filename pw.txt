@@ -1,0 +1,9 @@
+[postgres]
+username:	postgres
+password:	admin
+
+[geoserver]
+username:	admin
+password:	geoserver
+
+

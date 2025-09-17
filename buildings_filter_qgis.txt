@@ -1,0 +1,25 @@
+("building:levels" != 'NULL')
+OR
+("building:material" != 'NULL')
+OR
+("height" != 'NULL')
+OR
+("building:part" != 'NULL')
+OR
+("building:use" != 'NULL')
+OR
+("roof:orientation" != 'NULL')
+OR
+("roof:height" != 'NULL')
+OR
+("building" != 'NULL')
+OR
+("building:colour" != 'NULL')
+OR
+("building:min_level" != 'NULL')
+OR
+("roof:colour" != 'NULL')
+OR
+("roof:shape" != 'NULL')
+OR
+("min_height" != 'NULL')

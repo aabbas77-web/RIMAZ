@@ -1,0 +1,21 @@
+("power" != 'NULL')
+OR
+("circuits" != 'NULL')
+OR
+("generator:source" != 'NULL')
+OR
+("tower:type" != 'NULL')
+OR
+("man_made" != 'NULL')
+OR
+("voltage" != 'NULL')
+OR
+("cables" != 'NULL')
+OR
+("generator:type" != 'NULL')
+OR
+("generator:output:electricity" != 'NULL')
+OR
+("generator:method" != 'NULL')
+OR
+("substation" != 'NULL')

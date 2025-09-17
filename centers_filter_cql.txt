@@ -1,0 +1,19 @@
+SELECT * FROM public.planet_osm_polygon
+Where ("power" is not null) and ("power" != 'generator') and ("power" != 'plant')
+
+
+
+SELECT * FROM public.planet_osm_polygon
+Where "power" = 'generator' OR "power" = 'plant'
+
+("power" <> 'NULL')  OR ("generator:source" <> 'NULL') OR ("tower:type" <> 'NULL') OR ("man_made" <> 'NULL')
+
+("power" is not null) OR ("generator:source" is not null) OR ("tower:type" is not null) OR ("man_made" is not null)
+
+
+
+
+("generator:source" is not null)
+OR ("power" is not null)
+OR ("power_source" is not null)
+OR ("tower:type" is not null)
