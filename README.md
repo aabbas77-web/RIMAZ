@@ -7,4 +7,4 @@
 
 **RIMAZ Electricity Company**
 
-[![RIMAZ Electricity Company](https://github.com/aabbas77-web/JMapViewer3D/releases/download/FirstRelease/JMapViewer3DVideo.png)](https://www.youtube.com/watch?v=WOGnmRB0ZiA)
+[![RIMAZ Electricity Company](https://github.com/aabbas77-web/RIMAZ/releases/download/FirstRelease/RIMAZVideo.png)](https://www.youtube.com/watch?v=VNjBRA0E9Yw)
