@@ -24,3 +24,12 @@ Start Arabic Web App from Chrome Browser using:
 [4]
 Start English Web App from Chrome Browser using:
 	http://localhost:8080/openlayers_app/index.html
+
+Windows 10 Tools:
+
+postgis-bundle-pg16x64-setup-3.4.0-1.exe
+
+postgresql-16.0-1-windows-x64.exe
+
+xampp-windows-x64-8.2.4-0-VS16-installer.exe
+
