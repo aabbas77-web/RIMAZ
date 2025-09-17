@@ -1,0 +1,2 @@
+# RIMAZ
+RIMAZ Electricity Company
